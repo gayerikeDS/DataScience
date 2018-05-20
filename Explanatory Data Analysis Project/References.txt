@@ -1,0 +1,5 @@
+1. References from coursera
+2. References from data camp
+3. https://www.udemy.com/machinelearning/
+4. https://www.udemy.com/applied-statistical-modeling-for-data-analysis-in-r/
+5. Nptel for data science.
